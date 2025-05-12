@@ -385,7 +385,7 @@ None
 * [Securing the Digital Commons: Open-Source Software Cybersecurity](https://www.congress.gov/event/117th-congress/house-event/114727)
 
 ## Software Supply Chain Security & Artificial Intelligence (AI)
-None
+[Springer][https://link.springer.com/book/10.1007/979-8-8688-0799-2]
 
 ## Vendors
 * [Anchore](https://anchore.com/)
